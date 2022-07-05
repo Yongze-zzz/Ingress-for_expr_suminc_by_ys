@@ -44,11 +44,11 @@ make ingress
 
 ```bash
 # Run the pagerank algorithm with the automatic selection engine
-$   cd /home/yongze/Desktop/code/Ingress-for_expr_suminc_by_ys/examples/analytical_apps/antlr/src
+$   cd /Ingress-for_expr_suminc_by_ys/examples/analytical_apps/antlr/src
 $   ./eng.sh
 
 # Run the sssp algorithm with the automatic selection engine
-$   cd /home/yongze/Desktop/code/Ingress-for_expr_suminc_by_ys/examples/analytical_apps/antlr/src
+$   cd /Ingress-for_expr_suminc_by_ys/examples/analytical_apps/antlr/src
 $   vim ./eng.sh
 # Change your algorithm location like ../../../sssp/sssp_ingress.h and change your command-line parameters like sssp
 $ ./eng.sh
