@@ -15,7 +15,7 @@ sudo make install
 
 ```
 ## libz3java.so
-sudo cp /deps/libz3java.so /usr/lib
+sudo cp libz3java.so /usr/lib
 
 ## ANTLR4 Getting started
 
